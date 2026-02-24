@@ -1,4 +1,4 @@
-# XBDX-M <img width="" height="300" alt="LogoXBDX-M" src="https://github.com/user-attachments/assets/c991d28c-79f9-4247-9263-97c17367fc9d" />
+# XBDX-M
 
 
 This product is Knowledge Base, BPM and EA system (Web-App)
